@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0D1623</color>
+    <color name="colorPrimaryDark">#0B0D17</color>
+    <color name="colorAccent">#3D8BFF</color>
+
+    <color name="negro">#000000</color>
+    <color name="blanco">#FFFFFF</color>
+
+    <color name="btn_marvel">#14305E</color>
+    <color name="btn_dc">#AA2323</color>
+
+</resources>
